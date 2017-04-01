@@ -1,3 +1,4 @@
+echo "Hello, Dave!"
 # jq help: https://gist.github.com/rhelmer/a49cc673ad20a1e7fb56, https://jqplay.org/
 # Get instance IP address or hostname and set it to variable
 pemfile=~/security/aws-ssh-key.pem
