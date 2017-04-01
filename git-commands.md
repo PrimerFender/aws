@@ -35,3 +35,8 @@ Add remote (origin) to local repo config
 
     git remote add origin https://cspargo@bitbucket.org/cspargo/aws.git
 
+## References
+* Atlassian Basic Git Commands
+    * <https://www.atlassian.com/git/tutorials/svn-to-git-prepping-your-team-migration#basic-git-commands>
+* MarkDown Syntax
+    * <https://daringfireball.net/projects/markdown/syntax>
