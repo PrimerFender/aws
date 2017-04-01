@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://bitbucket.org/cspargo/aws
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	email = cspargo@gmail.com
+	name = Craig Spargo
