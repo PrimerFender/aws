@@ -40,3 +40,5 @@ Add remote (origin) to local repo config
     * <https://www.atlassian.com/git/tutorials/svn-to-git-prepping-your-team-migration#basic-git-commands>
 * MarkDown Syntax
     * <https://daringfireball.net/projects/markdown/syntax>
+
+Mac: <kbd>opt+shift+up</kbd> or <kbd>opt+shift+down</kbd>
