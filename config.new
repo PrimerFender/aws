@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = cspargo@gmail.com
+	name = Craig Spargo
+[remote "origin"]
+	url = https://cspargo@bitbucket.org/cspargo/aws.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+
+[custom "text"]
+	eat = pie
